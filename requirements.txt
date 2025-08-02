@@ -1,3 +1,4 @@
 python-telegram-bot==20.6
 ollama==0.1.2
 httpx>=0.25.2,<0.26.0
+langchain-community
